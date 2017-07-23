@@ -1,0 +1,72 @@
+body
+{
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.main
+{
+    background-color: whitesmoke;
+    position: absolute;
+    left: 20px;
+    top:20px;
+    right:20px;
+    bottom: 10px;    
+}
+
+#header
+{
+    background-color: blue;
+    height: 200px;    
+}
+
+.menu
+{
+    display: inline-block;
+    position: absolute;
+    left: 25%;
+    right:25%;
+    background-color: magenta;
+    width: 50%;
+    height: 50px;
+}
+
+.menu--ul
+{
+    margin-top: 5px;;
+    margin-bottom: 0px;
+    display: inline-block;
+    position: absolute;
+    list-style-type: none;  
+    margin-right: auto;  
+}
+
+.menu--ul--li
+{
+    float: left;
+    margin: 5px;
+}
+
+.menu--ul--li--a
+{
+    color: green;
+    text-decoration: none;
+}
+
+#logo
+{
+    position: absolute;
+    left: 25%;
+    width: 50%;
+    right: 25%;
+    height: 200px;
+}
+
+#logo--image
+{
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    width: 200px;
+    height: 200px;
+}
