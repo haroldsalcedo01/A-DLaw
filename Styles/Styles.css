@@ -7,10 +7,7 @@ body
 .main
 {
     background-color: whitesmoke;
-    position: absolute;
-    left: 20px;
-    top:20px;
-    right:20px;
+    margin: 20px;    
     bottom: 10px;    
 }
 
@@ -102,7 +99,8 @@ body
     position: absolute;
     margin: 10px 0px 10px 0px;
     background-color: olive;
-    width: 100%;    
+    left: 26px;
+    right: 26px;
 }
 
 .footer--ul
