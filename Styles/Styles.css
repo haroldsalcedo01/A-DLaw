@@ -93,14 +93,14 @@ body
 .section--info--img--left
 {
     float: left;
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 300px;
 }
 
 .section--info--text--rigth
 {
     float: left;
-    margin: 10px;
+    margin: 50px;
 }
 
 #imgServices
@@ -211,4 +211,9 @@ width: 100%;
     right: 25%;
     width: 200px;
     height: 200px;
+}
+
+#example
+{
+    display: inline-block;
 }
